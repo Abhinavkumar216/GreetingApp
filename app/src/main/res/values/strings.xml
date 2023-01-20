@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WidgetApp</string>
+    <string name="please_enter_your_name">Please Enter your Name</string>
+</resources>
